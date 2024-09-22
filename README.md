@@ -1,8 +1,13 @@
-# React + Vite
+# Movies & Movie Watchlist App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Movie App Screenshot](./img.png)
 
-Currently, two official plugins are available:
+## Technologies used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Firebase
+- Chakra UI
+- TMDB API
+
+## Description
+A movie search application where users can discover and look up movies and TV shows. The app allows users to view details such as titles, descriptions, and posters. Learning React.js and Firebase. 
