@@ -6,7 +6,7 @@ import App from './App.jsx'
 import './index.css'
 import Home from "./pages/Home.jsx"
 import Movies from "./pages/movies/Movies.jsx"
-import Shows from './pages/shows/shows.jsx'
+import Shows from './pages/shows/Shows.jsx'
 import Search from "./pages/search/Search.jsx"
 import DetailsPage from './pages/DetailsPage.jsx'
 import { AuthProvider } from './context/authProvider.jsx'
